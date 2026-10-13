@@ -1,0 +1,16 @@
+
+# Private environment variables
+.env
+.env.*
+!.env.example
+
+# Node.js dependencies
+node_modules/
+
+# Debug logs
+npm-debug.log*
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
